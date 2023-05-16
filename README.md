@@ -12,7 +12,7 @@ Component repositories:
 * [Orion-LD](https://github.com/FIWARE/context.Orion-LD)
 * [TrustedIssuersRegistryWrapper](https://github.com/pulledtim/trusted-issuer-registry-wrapper)
 * [DSBA-PDP](https://github.com/FIWARE/dsba-pdp)
-* [Keyrock](https://github.com/ging/fiware-idm)
+* [Keyrock](https://github.com/ging/fiware-idm) -> [Fork with DID support](https://github.com/wistefan/fiware-idm/tree/did-integration)
 * [Verifier](https://github.com/FIWARE/VCVerifier)
 * [Portal](https://github.com/i4Trust/pdc-portal)
 * [PEP-Plugin](https://github.com/FIWARE/kong-plugins-fiware)
