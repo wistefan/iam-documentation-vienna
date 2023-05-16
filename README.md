@@ -29,6 +29,7 @@ Example deployments:
 * [i4Trust Demonstrator](https://github.com/FIWARE-Ops/i4trust-demonstrator)
 
 Additional documentation and specs:
+* [W3C did:web](https://w3c-ccg.github.io/did-method-web/)
 * [SIOP-2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
 * [OIDC4VP](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
 * [OIDC4VCI](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
